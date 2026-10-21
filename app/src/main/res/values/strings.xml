@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="intro_title">הקדמה</string>
+    <string name="first_name_hint">שם פרטי</string>
+    <string name="last_name_hint">שם משפחה</string>
+    <string name="show_full_name">הצג שם מלא</string>
+    <string name="full_name_format">שלום, %1$s %2$s!</string>
+    <string name="fill_both_names_error">נא למלא שם פרטי ושם משפחה.</string>
+    <string name="options_title">אפשרויות</string>
+    <string name="option_1">אפשרות 1</string>
+    <string name="option_2">אפשרות 2</string>
+    <string name="option_3">אפשרות 3</string>
+    <string name="option_selected_format">נבחרה אפשרות %d</string>
+    <string name="how_are_you_title">מה שלומך</string>
+    <string name="status_great">מעולה</string>
+    <string name="status_good">טוב</string>
+    <string name="status_okay">בסדר</string>
+    <string name="status_response_great">איזה יופי! שמחים לשמוע שאת/ה מרגיש/ה מעולה! 😄</string>
+    <string name="status_response_good">מצויין! שיהיה המשך יום נפלא! 🙂</string>
+    <string name="status_response_okay">הכל בסדר, שיהיה יום שקט ורגוע 😐</string>
+    <string name="status_prompt">בחר/י את ההרגשה שלך:</string>
+    <string name="status_default">אנא בחר/י תשובה למעלה</string>
+</resources>
